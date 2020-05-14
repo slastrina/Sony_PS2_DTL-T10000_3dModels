@@ -15,3 +15,4 @@ At completion there will be 2 sets of models provided
 Both should look almost identical from the outside.
 
 ![alt text](screenshots/20200514_FRONT.JPG "20200514 Front")
+![alt text](screenshots/20200514_EXPLODED.JPG "20200514 Exploded")
