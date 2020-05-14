@@ -14,7 +14,4 @@ At completion there will be 2 sets of models provided
 
 Both should look almost identical from the outside.
 
-Progress Screenshots Below:
-
-![alt text](screenshots/20200509_FRONT.JPG "20200509 Front")
-![alt text](screenshots/20200509_REAR.JPG "20200509 Rear")
+![alt text](screenshots/20200514_FRONT.JPG "20200514 Front")
